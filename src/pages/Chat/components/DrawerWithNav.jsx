@@ -256,7 +256,7 @@ export function DrawerWithNav(props) {
           </IconButton>
           <Box display='flex' justifyContent='space-between' width='100%'>
             <Typography variant='h6' noWrap component='div'>
-              Penguins Chat
+             Chat App
             </Typography>
             <Box
               sx={{
